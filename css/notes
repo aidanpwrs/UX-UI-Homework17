@@ -1,0 +1,5 @@
+notes
+body {
+  background: rgb(87,83,102);
+  background: linear-gradient(180deg, rgba(87,83,102,1) 0%, rgba(50,41,47,1) 100%);
+} /// Background gradient
